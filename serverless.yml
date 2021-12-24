@@ -33,4 +33,4 @@ custom:
     # flags passed to cargo
 #    cargoFlags: '--features enable-awesome'
     # experimental! when set to true, artifacts are built locally outside of docker
-    dockerless: true
+    dockerless: false
